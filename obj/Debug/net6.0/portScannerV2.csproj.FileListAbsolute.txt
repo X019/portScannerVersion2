@@ -1,0 +1,15 @@
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\portScannerV2.csproj.AssemblyReference.cache
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\portScannerV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\portScannerV2.AssemblyInfoInputs.cache
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\portScannerV2.AssemblyInfo.cs
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\portScannerV2.csproj.CoreCompileInputs.cache
+D:\D-DRIVE\Crest_Work\portScannerV2\bin\Debug\net6.0\portScannerV2.exe
+D:\D-DRIVE\Crest_Work\portScannerV2\bin\Debug\net6.0\portScannerV2.deps.json
+D:\D-DRIVE\Crest_Work\portScannerV2\bin\Debug\net6.0\portScannerV2.runtimeconfig.json
+D:\D-DRIVE\Crest_Work\portScannerV2\bin\Debug\net6.0\portScannerV2.dll
+D:\D-DRIVE\Crest_Work\portScannerV2\bin\Debug\net6.0\ref\portScannerV2.dll
+D:\D-DRIVE\Crest_Work\portScannerV2\bin\Debug\net6.0\portScannerV2.pdb
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\portScannerV2.dll
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\ref\portScannerV2.dll
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\portScannerV2.pdb
+D:\D-DRIVE\Crest_Work\portScannerV2\obj\Debug\net6.0\portScannerV2.genruntimeconfig.cache
